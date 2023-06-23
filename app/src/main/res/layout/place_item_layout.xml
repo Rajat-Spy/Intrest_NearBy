@@ -1,6 +1,7 @@
 <?xml version="1.0" encoding="utf-8"?>
 
-<layout>
+<layout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto">
 
     <data>
 
@@ -15,8 +16,7 @@
 
     </data>
 
-    <androidx.cardview.widget.CardView xmlns:android="http://schemas.android.com/apk/res/android"
-        xmlns:app="http://schemas.android.com/apk/res-auto"
+    <androidx.cardview.widget.CardView
         android:layout_width="match_parent"
         android:layout_height="wrap_content"
         android:layout_marginHorizontal="10dp"
@@ -75,10 +75,11 @@
                         android:layout_height="30dp"
                         android:layout_alignParentEnd="true"
                         android:onClick="@{()->listener.onSaveClick(googlePlaceModel)}"
-                        android:src="@{googlePlaceModel.saved==true?@drawable/ic_bookmarked:@drawable/ic_bookmark}"
+                        android:src="@drawable/ic_bookmark"
                         app:tint="@color/primaryColor" />
 
                     <ImageView
+                        android:id="@+id/navigationButton"
                         android:layout_width="30dp"
                         android:layout_height="30dp"
                         android:layout_toStartOf="@+id/imgSaveLocation"

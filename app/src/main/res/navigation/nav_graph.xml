@@ -10,10 +10,5 @@
         android:name="com.example.intrestnearby.fragment.HomeFragment"
         tools:layout="@layout/fragment_home" />
 
-    <fragment
-        android:id="@+id/btnSavedPlaces"
-        android:name="com.example.intrestnearby.fragment.SavedPlaceFragment"
-        tools:layout="@layout/fragment_saved_place" />
-
 
 </navigation>
