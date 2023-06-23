@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">Intrest NearBy</string>
+    <string name="API_KEY">AIzaSyA3zeQUA47kyCgI5XJFJMn6zybxb3jPqeQ</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="open_navigation_drawer">Open Drawer</string>
+    <string name="close_navigation_drawer">Open Drawer</string>
+
+</resources>
