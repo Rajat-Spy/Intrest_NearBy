@@ -1,8 +1,7 @@
 # Intrest_NearBy
 Download the zip file or clone the repository and then open the app folder in android studios and run in the device or AVD
 
-Video Demostration
-
+ScreenShots of the App
 ![first_page 1](https://github.com/Rajat-Spy/Intrest_NearBy/assets/72099374/f8441746-ec9d-4ac5-a91f-fa592eae218a)
 ![Screenshot_20230623-201001_Intrest_NearBy 1](https://github.com/Rajat-Spy/Intrest_NearBy/assets/72099374/4ca0b671-c4e0-49c8-b594-7db1af1082c4)
 ![Screenshot_20230623-201212_Intrest_NearBy 1](https://github.com/Rajat-Spy/Intrest_NearBy/assets/72099374/0018aa62-5d89-4f2a-8641-80710c0d0876)
